@@ -5,7 +5,8 @@
 @import url("fonts.css");
 
 .wrapper { height: 100%; 
-overflow: hidden; }    
+overflow: hidden; 
+}    
 
 
 
@@ -146,7 +147,6 @@ display:block;;
    font-weight: 700;
    line-height: 128.571%;
    display: inline-block;
-   vertical-align: left; 
 }
 
 .content div:last-child {
