@@ -5,10 +5,8 @@
 @import url("fonts.css");
 
 .wrapper { height: 100%; 
-overflow: hidden; 
+/* overflow: hidden;  */
 }    
-
-
 
 h1 {color: #1E1B39;
 font-family: "DM Sans";
